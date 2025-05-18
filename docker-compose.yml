@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  nlp-translator:
+    build: .
+    container_name: nlp_translator_app
+    volumes:
+      - .:/app
+    working_dir: /app
+    tty: true

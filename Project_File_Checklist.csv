@@ -1,0 +1,10 @@
+file,required,status
+Dockerfile,True,✅ Present (please confirm manually)
+docker-compose.yml,True,✅ Present (please confirm manually)
+README.md,True,✅ Present (please confirm manually)
+requirements.txt,True,✅ Present (please confirm manually)
+sample_dialect_dataset.csv,True,✅ Present (please confirm manually)
+sample_dialect_dataset.jsonl,True,✅ Present (please confirm manually)
+scripts/run_asr_test.py,True,✅ Present (please confirm manually)
+scripts/run_tts_test.py,True,✅ Present (please confirm manually)
+scripts/nlp_translation_mock_test.py,True,✅ Present (please confirm manually)
